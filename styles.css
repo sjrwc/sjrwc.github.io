@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+font-family: arial, helvetica, sans-serif;
+}
+h1 {
+    color: black;
+
+}
+p {
+    padding-right: 50px;
+padding-left: 20px;
+
+
+}
+img {
+	padding: 10px;	
+}
