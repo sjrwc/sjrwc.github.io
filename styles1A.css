@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+font-family: arial, helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    position:relative;
+}
+
+p {
+    padding-right: 40px;
+	padding-left: 0px;
+}
+.div1 {
+    clear: left;
+}
