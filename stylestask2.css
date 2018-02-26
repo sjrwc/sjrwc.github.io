@@ -1,0 +1,16 @@
+@media screen and (max-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+
+body {
+    background-color: powderblue;
+font-family: arial, helvetica, sans-serif;
+}
+h1 {
+    color: black;
+
+}
+p {
+    width: 240px;
+}
